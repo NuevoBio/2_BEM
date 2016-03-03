@@ -1,0 +1,17 @@
+
+.tabla_my{
+    position: relative;
+    margin: 10px auto;
+    text-align: center;
+}
+.tabla_my tr, .tabla_my th{
+    padding: 10px;
+    background-color: #eee;
+}
+.tabla_my tr:hover{
+    background-color: #E4B837;
+    cursor: pointer;
+}
+.tabla_my tr td{
+    padding: 5px 15px;
+}

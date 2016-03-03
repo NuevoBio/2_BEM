@@ -1,0 +1,40 @@
+.card{
+    position:relative;
+    width:1280px;
+    left: 200px;
+    text-align:center;
+    background-color: #ccc;
+    overflow: hidden;
+    border-color: #E4B836;
+    border-style: solid;
+    border-radius: 20px;
+
+}
+
+
+ .card_title{
+    font-size: 60px;
+    color: brown;
+    text-shadow: 4px 4px 0 Grey;
+}
+
+ .card_button{
+   font-size: 35px;
+   color: brown;
+}
+
+ .card_button:hover{
+     font-size: 40px;
+     background-color:skyblue;
+     text-shadow: 4px 4px 0 Grey;
+}
+
+ .card:hover {
+        opacity: 0.85;
+}
+
+.bau{
+    position: relative;
+    left: 0;
+    top: 0;
+}
